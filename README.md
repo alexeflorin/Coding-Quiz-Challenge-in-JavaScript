@@ -1,1 +1,1 @@
-# Coding-Quiz-Challenge-in-JavaScript
+# Coding_Quiz_on_JavaScript_Fundaments
