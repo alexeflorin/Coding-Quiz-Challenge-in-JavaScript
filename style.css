@@ -25,3 +25,7 @@ main section button {
     background-color: blueviolet;
     color:aliceblue
 }
+
+.hide{
+    display:none;
+}
